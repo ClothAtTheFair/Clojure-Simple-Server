@@ -1,22 +1,9 @@
-# clojure-simple-http
+## clojure-simple-http
 
-A Clojure library designed to ... well, that part is up to you.
+# Description:
 
-## Usage
+During a meeting with a mentor it was brought up that if I wanted to understand full stack development better, I should explore creating a simple server. This is written in as it is a functional programming language I like to code in and create new things when given the opportunity.
 
-FIXME
+# Tech Stack Used:
 
-## License
-
-Copyright © 2020 FIXME
-
-This program and the accompanying materials are made available under the
-terms of the Eclipse Public License 2.0 which is available at
-http://www.eclipse.org/legal/epl-2.0.
-
-This Source Code may also be made available under the following Secondary
-Licenses when the conditions for such availability set forth in the Eclipse
-Public License, v. 2.0 are satisfied: GNU General Public License as published by
-the Free Software Foundation, either version 2 of the License, or (at your
-option) any later version, with the GNU Classpath Exception which is available
-at https://www.gnu.org/software/classpath/license.html.
+Clojure
